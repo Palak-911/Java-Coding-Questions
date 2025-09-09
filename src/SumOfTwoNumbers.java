@@ -12,6 +12,7 @@ public class SumOfTwoNumbers {
 
         int sum = num_1+num_2;
 
+
         System.out.println("Sum of "+ num_1 +"and "+num_2+" is "+ sum);
     }
 }

@@ -18,4 +18,5 @@ public class SimpleInterest {
         System.out.println("SI is: "+ SI);
 
     }
+
 }

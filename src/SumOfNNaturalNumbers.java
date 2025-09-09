@@ -17,4 +17,5 @@ public class SumOfNNaturalNumbers {
 
         System.out.println("Sum of first " + n + " natural numbers is: " + sum);
     }
+
 }
